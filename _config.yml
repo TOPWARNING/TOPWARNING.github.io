@@ -3,10 +3,10 @@
 # ---------------- #
 baseurl:
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
+title: 嘘~
+subtitle: "码动人生"
 description: "TopWarning的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: TopWarning, Android
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
+author: TopWarning
+organization: 2dfire, Inc.
+organization_url: http://www.2dfire.com/
 github_username: TopWarning
-location: Beijing, China
-email: chumpma@gmail.com
+location: Hangzhou, China
+email: 280832809@qq.com
 
 # ---------------- #
 #    Navigation    #
