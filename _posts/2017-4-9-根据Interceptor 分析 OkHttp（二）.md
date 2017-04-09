@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 title: 根据Interceptor 分析 OkHttp
-categories: Interceptor
+categories: OkHttp Interceptor
 description: 根据Interceptor 分析 OkHttp。
-keywords: Interceptor, OkHttp
+keywords: OkHttp，Interceptor
 ---
 
 根据Interceptor 分析 OkHttp（二）
