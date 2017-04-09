@@ -1,11 +1,13 @@
 ﻿---
 layout: post
 title: 根据Interceptor 分析 OkHttp
-categories: Interceptor OkHttp
+categories: Interceptor
 description: 根据Interceptor 分析 OkHttp。
 keywords: Interceptor, OkHttp
 ---
+
 根据Interceptor 分析 OkHttp（二）
+
 # 根据Interceptor 分析 OkHttp（二）
 
 标签（空格分隔）： Interceptor OkHttp
