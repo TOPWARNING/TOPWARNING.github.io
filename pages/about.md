@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 码动人生
+keywords: Warning
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是Warning，Android撸sir。
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+需要懂奋斗，更需要懂做人。
 
 ## 联系
 
