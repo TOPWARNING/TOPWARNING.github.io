@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Moziila 文件结构概览（译）
-categories: Gecko
-description: 对 Mozilla 官方文档中的文件结构概览的翻译。
-keywords: Mozilla
+title: 根据Interceptor 分析 OkHttp
+categories: OkHttp Interceptor
+description: 根据Interceptor 分析 OkHttp。
+keywords: OkHttp，Interceptor
 ---
 
 
