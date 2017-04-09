@@ -1,11 +1,12 @@
-﻿---
-layout: post
-title: 根据Interceptor 分析 OkHttp
-categories: Interceptor OkHttp
-description: 根据Interceptor 分析 OkHttp。
-keywords: Interceptor, OkHttp
 ---
-根据Interceptor 分析 OkHttp
+layout: post
+title: Moziila 文件结构概览（译）
+categories: Gecko
+description: 对 Mozilla 官方文档中的文件结构概览的翻译。
+keywords: Mozilla
+---
+
+
 # 根据Interceptor 分析 OkHttp（一）
 
 标签（空格分隔）： Interceptor OkHttp
