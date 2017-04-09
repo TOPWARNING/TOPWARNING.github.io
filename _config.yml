@@ -7,7 +7,7 @@ title: 嘘~
 subtitle: "码动人生"
 description: "TopWarning的个人博客"
 keywords: TopWarning, Android
-favicon: /android_icon
+favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
